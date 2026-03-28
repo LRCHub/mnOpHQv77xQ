@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Pasalubong (feat. Moira Dela Torre)",
+  "base_artist": "Ben&Ben & Moira Dela Torre",
+  "createdAt": "2026-03-28T14:46:50.875052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Ben",
+      "has_synced": true,
+      "path": "select/01_Pasalubong_(feat._Moira_Dela_Torre)_Ben.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Ben&Ben",
+      "has_synced": true,
+      "path": "select/02_Pasalubong_(feat._Moira_Dela_Torre)_Ben&Ben.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ben&Ben - Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/03_Ben&Ben_-_Pasalubong_(feat._Moira_Dela_Torre)_Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Ben&Ben, Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/04_Pasalubong_(feat._Moira_Dela_Torre)_Ben&Ben,_Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ben&Ben - Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Ben&Ben",
+      "has_synced": true,
+      "path": "select/05_Ben&Ben_-_Pasalubong_(feat._Moira_Dela_Torre)_Ben&Ben.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Ben&Ben",
+      "has_synced": true,
+      "path": "select/06_Pasalubong_(feat._Moira_Dela_Torre)_Ben&Ben.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/07_Pasalubong_(feat._Moira_Dela_Torre)_Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pasalubong - feat. Moira Dela Torre",
+      "artist": "Ben&Ben/Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/08_Pasalubong_-_feat._Moira_Dela_Torre_Ben&Ben_Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pasalubong (feat. Moira Dela Torre)",
+      "artist": "Ben&Ben & Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/09_Pasalubong_(feat._Moira_Dela_Torre)_Ben&Ben_&_Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pasalubong - feat. Moira Dela Torre",
+      "artist": "Ben&Ben, Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/10_Pasalubong_-_feat._Moira_Dela_Torre_Ben&Ben,_Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pasalubong - feat. Moira Dela Torre",
+      "artist": "Ben&Ben feat. Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/11_Pasalubong_-_feat._Moira_Dela_Torre_Ben&Ben_feat._Moira_Dela_Torre.lrc"
+    }
+  ]
+}
